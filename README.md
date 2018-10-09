@@ -4,7 +4,7 @@
 
 <div align="center">
 	<h1>LuckyDog</h1>
-	<h2>锦鲤</h2>
+	<h2>锦鲤,#幸运大鱼</h2>
 	<h3>Just For Fun</h3>
 </div>
 
